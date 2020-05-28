@@ -55,11 +55,11 @@ Put all your brainstorm ideas, strategy approaches, and class outlines here
 
 Every day you work, keep track of it here.
 
-**Date (time spent)**
+**5/27/2020 (30 minutes)**
 
-Goal:  What are you trying to accomplish today?
+Goal:  Today, I will brainstorm the neccessary classes and interfaces that I need to create my game.
 
-Work accomplished:  Describe what you did today and how it went.
+Work accomplished:  I have created classes for the overall game, player world, platforms, player, bullets, and monsters, in addition to the Actor and World class. I plan to have the platforms spawn randomly between the maximum jump distance of jumping right or left from a platform, so no jump is impossible. It has also occured to me that I have to make sure that a platform doesn't spawn directly above a consecutive platform, so the game will still be playable. I will also make it so that bullets only travel upward, and will stop appearing when the ammo count drops to 0. Lastly, I need to find sprites of the player to ensure that it will look like your character is jumping instead of levitating with gravity.
 
 **Date (time spent)**
 
