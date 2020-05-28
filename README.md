@@ -14,10 +14,10 @@ I want to make a mashup of the games Jump King and Doodle Jump. In this new vers
 
 Game Controls:
 
-+ Up Arrow Key or 'W' to shoot your gun
-+ Left Arrow Key or 'A' to move left
-+ Right Arrow Key or 'D' to move right
-+ Space button to charge your jump
++ Up Arrow Key to shoot your gun
++ Left Arrow Key to move left
++ Right Arrow Key to move right
++ Space button to jump
 
 Game Elements:
 
