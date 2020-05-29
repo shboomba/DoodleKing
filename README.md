@@ -61,8 +61,8 @@ Goal:  Today, I will brainstorm the neccessary classes and interfaces that I nee
 
 Work accomplished:  I have created classes for the overall game, player world, platforms, player, bullets, and monsters, in addition to the Actor and World class. I plan to have the platforms spawn randomly between the maximum jump distance of jumping right or left from a platform, so no jump is impossible. It has also occured to me that I have to make sure that a platform doesn't spawn directly above a consecutive platform, so the game will still be playable. I will also make it so that bullets only travel upward, and will stop appearing when the ammo count drops to 0. Lastly, I need to find sprites of the player to ensure that it will look like your character is jumping instead of levitating with gravity.
 
-**Date (time spent)**
+**5/28/20 (3 hours 30 minutes)**
 
-Goal:  What are you trying to accomplish today?
+Goal: Today, I will make the image sprites for the actors in my game and work on the jumping mechanic.
 
-Work accomplished:  Describe what you did today and how it went.
+Work accomplished:  Making the actor images went well, as I wwas able to find images for all of them. However, jumping to a long time to figure out, because I want to make it so that after a certain amount of time after holding the space bar, you will jump automatically to keep you from jumping way too high. Doing this made jumping much more complicated than I thought, I so added an integer variable with a maximum value. Also, gravity and boundaries had to be added so jumping can properly work. I added these through dx and dy values, and used getOneIntersectingObject(Platform.class) for boundaries. However, when all of this was implemented, I recieved errors about JNI and installation errors, so I will check what is wrong tomorrow.
