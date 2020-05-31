@@ -65,7 +65,7 @@ Work accomplished:  I have created classes for the overall game, player world, p
 
 Goal: Today, I will make the image sprites for the actors in my game and work on the jumping mechanic.
 
-Work accomplished:  Making the actor images went well, as I wwas able to find images for all of them. However, jumping to a long time to figure out, because I want to make it so that after a certain amount of time after holding the space bar, you will jump automatically to keep you from jumping way too high. Doing this made jumping much more complicated than I thought, I so added an integer variable with a maximum value. Also, gravity and boundaries had to be added so jumping can properly work. I added these through dx and dy values, and used getOneIntersectingObject(Platform.class) for boundaries. However, when all of this was implemented, I recieved errors about JNI and installation errors, so I will check what is wrong tomorrow.
+Work accomplished:  Making the actor images went well, as I was able to find images for all of them. However, jumping took a long time to figure out because I want to make it so that after a certain amount of time after holding the space bar, you will jump automatically to keep from jumping way too high. Doing this made jumping much more complicated than I thought, I also added an integer variable with a maximum value. Also, gravity and boundaries had to be added so jumping can properly work. I added these through dx and dy values, and used getOneIntersectingObject(Platform.class) for boundaries. However, when all of this was implemented, I recieved errors about JNI and installation errors, so I will check what is wrong tomorrow.
 
 **5/29/20 (5 hours)**
 
