@@ -59,7 +59,7 @@ Every day you work, keep track of it here.
 
 Goal:  Today, I will brainstorm the neccessary classes and interfaces that I need to create my game.
 
-Work accomplished:  I have created classes for the overall game, player world, platforms, player, bullets, and monsters, in addition to the Actor and World class. I plan to have the platforms spawn randomly between the maximum jump distance of jumping right or left from a platform, so no jump is impossible. It has also occured to me that I have to make sure that a platform doesn't spawn directly above a consecutive platform, so the game will still be playable. I will also make it so that bullets only travel upward, and will stop appearing when the ammo count drops to 0. Lastly, I need to find sprites of the player to ensure that it will look like your character is jumping instead of levitating with gravity.
+Work accomplished:  I have created classes for the overall game, player world, platforms, player, bullets, and monsters, in addition to the Actor and World class. I plan to have the platforms spawn randomly between the maximum jump distance of jumping right or left from a platform, so no jump is impossible. It has also occured to me that I have to make sure that a platform doesn't spawn directly above a consecutive platform, so the game will still be playable. I will also make it so that bullets only travel upward because monsters will only be above the player, and will stop appearing when the ammo count drops to 0. Lastly, I need to find sprites of the player to ensure that it will look like your character is jumping instead of levitating with gravity.
 
 **5/28/20 (3 hours 30 minutes)**
 
