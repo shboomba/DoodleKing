@@ -10,7 +10,7 @@
 
 ## Game Proposal ##
 
-I want to make a mashup of the games Jump King and Doodle Jump. In this new version, there will be a mission to jump through many platforms and shoot monsters to ultimately reach one of your character's loved one. There will be options for your character and who you want to save, and you can get ammo packs along the way so there will be strategy and timing involved with shooting.
+I want to make a mashup of the games Jump King and Doodle Jump. In this new version, there will be a mission to jump through many platforms and shoot monsters to ultimately reach one of your character's loved one. You can get ammo packs along the way so there will be strategy and timing involved with shooting.
 
 Game Controls:
 
